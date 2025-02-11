@@ -48,7 +48,7 @@
 <details> 
   <summary><h2>📲 Contacto</h2></summary>
   <p>
-    <a href="https://www.linkedin.com/in/Mine-J/" target="_blank">
+    <a href="https://www.linkedin.com/in/javiersaezgarcia-/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35">
     </a>
   </p>
