@@ -41,7 +41,8 @@
 
 <details> 
   <summary><h2>📊 Estadísticas de GitHub</h2></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mine-J&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mine-J&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mine-J&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"><br>
 
   ### 🔝 Top Contributed Repo
